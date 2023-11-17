@@ -18,4 +18,4 @@ Una vez instanciados ambos contenedores, se tiene que generar la base de datos *
 
 Posteriormente, se tiene que realizar la carga de los datos, en este caso se dispone puede hacer mediante el código de la libreta `crear-base.ipynb`.
 
-A partir de ahí se puede utilizar la herramienta para evaluar el rendimiento de las consultas disponibles.
+A partir de ahí se puede utilizar la herramienta para evaluar el rendimiento de las consultas disponibles. Un complemento para tener más contexto sobre los resultados del análisis podría ser [esta web](https://explain.depesz.com/).
